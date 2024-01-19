@@ -10,4 +10,7 @@ Not intended for multiplayer use.
 
 In this mod version, you can place the derailleur anywhere in the game window.
 
+You need to click the slider to change the speed. You can't drag the slider.
+
 Thanks to miner for his guidance.
+
